@@ -7,10 +7,10 @@
 Реалізувати для сервісу `EduVault` реєстрацію користувачів, авторизацію через `JWT`, валідацію вхідних даних, оновлення профілю, зміну пароля, вихід із системи та захист серверних маршрутів.
 
 ### 1.3 Посилання
-- Репозиторій власного проєкту (GitHub): буде додано після публікації.
-- Розгорнутий застосунок: буде додано після розгортання.
-- Репозиторій звітного HTML-документа (GitHub): буде додано після публікації.
-- Звітний HTML-документ: буде додано після розгортання.
+- Репозиторій власного проєкту (GitHub): [Chiefzhs/EduVault](https://github.com/Chiefzhs/EduVault)
+- Розгорнутий застосунок: локальний запуск із репозиторію проєкту.
+- Репозиторій звітного HTML-документа (GitHub): [Chiefzhs/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026](https://github.com/Chiefzhs/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026)
+- Звітний HTML-документ: [chiefzhs.github.io/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026](https://chiefzhs.github.io/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026/)
 
 ---
 
@@ -262,29 +262,29 @@ router.delete("/delete-account", authMiddleware, deleteAccount);
 
 ## 3. Скріншоти результату
 
-![POST logout](/assets/labs/lab-3/screen-12.png)
-
-![PUT change password](/assets/labs/lab-3/screen-11.png)
-
-![PUT update profile](/assets/labs/lab-3/screen-10.png)
-
-![DELETE material](/assets/labs/lab-3/screen-9.png)
-
-![PUT material](/assets/labs/lab-3/screen-8.png)
-
-![POST material](/assets/labs/lab-3/screen-7.png)
-
-![POST category](/assets/labs/lab-3/screen-6.png)
-
-![GET users](/assets/labs/lab-3/screen-5.png)
-
-![POST refresh](/assets/labs/lab-3/screen-4.png)
-
-![GET me](/assets/labs/lab-3/screen-3.png)
+![POST register](/assets/labs/lab-3/screen-1.png)
 
 ![POST login](/assets/labs/lab-3/screen-2.png)
 
-![POST register](/assets/labs/lab-3/screen-1.png)
+![GET me](/assets/labs/lab-3/screen-3.png)
+
+![POST refresh](/assets/labs/lab-3/screen-4.png)
+
+![GET users](/assets/labs/lab-3/screen-5.png)
+
+![POST category](/assets/labs/lab-3/screen-6.png)
+
+![POST material](/assets/labs/lab-3/screen-7.png)
+
+![PUT material](/assets/labs/lab-3/screen-8.png)
+
+![DELETE material](/assets/labs/lab-3/screen-9.png)
+
+![PUT update profile](/assets/labs/lab-3/screen-10.png)
+
+![PUT change password](/assets/labs/lab-3/screen-11.png)
+
+![POST logout](/assets/labs/lab-3/screen-12.png)
 
 ---
 

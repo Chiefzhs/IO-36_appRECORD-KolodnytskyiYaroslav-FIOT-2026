@@ -7,10 +7,10 @@
 Розширити серверну частину `EduVault` за рахунок логування HTTP-запитів і подій, реалізації завантаження файлів на сервер, а також додати базовий моніторинг продуктивності застосунку.
 
 ### 1.3 Посилання
-- Репозиторій власного проєкту (GitHub): буде додано після публікації.
-- Розгорнутий застосунок: буде додано після розгортання.
-- Репозиторій звітного HTML-документа (GitHub): буде додано після публікації.
-- Звітний HTML-документ: буде додано після розгортання.
+- Репозиторій власного проєкту (GitHub): [Chiefzhs/EduVault](https://github.com/Chiefzhs/EduVault)
+- Розгорнутий застосунок: локальний запуск із репозиторію проєкту.
+- Репозиторій звітного HTML-документа (GitHub): [Chiefzhs/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026](https://github.com/Chiefzhs/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026)
+- Звітний HTML-документ: [chiefzhs.github.io/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026](https://chiefzhs.github.io/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026/)
 
 ---
 
@@ -242,23 +242,23 @@ async function getStatus(req, res) {
 
 ## 3. Скріншоти результату
 
-![Logs and uploaded files](/assets/labs/lab-4/screen-9.png)
-
-![Upload valid file type](/assets/labs/lab-4/screen-8.png)
-
-![Create material](/assets/labs/lab-4/screen-7.png)
-
-![Create category](/assets/labs/lab-4/screen-6.png)
-
-![Login admin](/assets/labs/lab-4/screen-5.png)
-
-![Upload invalid file type](/assets/labs/lab-4/screen-4.png)
-
-![Performance status](/assets/labs/lab-4/screen-3.png)
+![Server start](/assets/labs/lab-4/screen-1.png)
 
 ![Health check](/assets/labs/lab-4/screen-2.png)
 
-![Server start](/assets/labs/lab-4/screen-1.png)
+![Performance status](/assets/labs/lab-4/screen-3.png)
+
+![Upload invalid file type](/assets/labs/lab-4/screen-4.png)
+
+![Login admin](/assets/labs/lab-4/screen-5.png)
+
+![Create category](/assets/labs/lab-4/screen-6.png)
+
+![Create material](/assets/labs/lab-4/screen-7.png)
+
+![Upload valid file type](/assets/labs/lab-4/screen-8.png)
+
+![Logs and uploaded files](/assets/labs/lab-4/screen-9.png)
 
 ---
 

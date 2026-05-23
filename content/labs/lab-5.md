@@ -7,10 +7,10 @@
 Підвищити безпеку та продуктивність серверної частини `EduVault`, реалізувати захист API, додати кешування відповідей, виконати валідацію даних та перевірити роботу сервісу за допомогою автоматизованих тестів.
 
 ### 1.3 Посилання
-- Репозиторій власного проєкту (GitHub): буде додано після публікації.
-- Розгорнутий застосунок: буде додано після розгортання.
-- Репозиторій звітного HTML-документа (GitHub): буде додано після публікації.
-- Звітний HTML-документ: буде додано після розгортання.
+- Репозиторій власного проєкту (GitHub): [Chiefzhs/EduVault](https://github.com/Chiefzhs/EduVault)
+- Розгорнутий застосунок: локальний запуск із репозиторію проєкту.
+- Репозиторій звітного HTML-документа (GitHub): [Chiefzhs/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026](https://github.com/Chiefzhs/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026)
+- Звітний HTML-документ: [chiefzhs.github.io/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026](https://chiefzhs.github.io/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026/)
 
 ---
 
@@ -228,25 +228,25 @@ test("POST /api/auth/login should validate email", async () => {
 
 ## 3. Скріншоти результату
 
-![Create material after validation and cache reset](/assets/labs/lab-5/screen-10.png)
-
-![Create material validation error](/assets/labs/lab-5/screen-9.png)
-
-![Get materials from cache](/assets/labs/lab-5/screen-8.png)
-
-![Get materials from database](/assets/labs/lab-5/screen-7.png)
-
-![Login validation error](/assets/labs/lab-5/screen-6.png)
-
-![Login admin](/assets/labs/lab-5/screen-5.png)
-
-![Performance status](/assets/labs/lab-5/screen-4.png)
-
-![Health check](/assets/labs/lab-5/screen-3.png)
+![Jest and Supertest execution](/assets/labs/lab-5/screen-1.png)
 
 ![Docker compose with MySQL and Redis](/assets/labs/lab-5/screen-2.png)
 
-![Jest and Supertest execution](/assets/labs/lab-5/screen-1.png)
+![Health check](/assets/labs/lab-5/screen-3.png)
+
+![Performance status](/assets/labs/lab-5/screen-4.png)
+
+![Login admin](/assets/labs/lab-5/screen-5.png)
+
+![Login validation error](/assets/labs/lab-5/screen-6.png)
+
+![Get materials from database](/assets/labs/lab-5/screen-7.png)
+
+![Get materials from cache](/assets/labs/lab-5/screen-8.png)
+
+![Create material validation error](/assets/labs/lab-5/screen-9.png)
+
+![Create material after validation and cache reset](/assets/labs/lab-5/screen-10.png)
 
 ---
 

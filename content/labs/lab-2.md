@@ -7,10 +7,10 @@
 Розробити базу даних для сервісу `EduVault`, налаштувати підключення `Node.js` до `MySQL`, реалізувати структуру таблиць і зв'язки між ними, а також показати роботу як із сирими SQL-запитами, так і через ORM `Sequelize`.
 
 ### 1.3 Посилання
-- Репозиторій власного проєкту (GitHub): буде додано після публікації.
-- Розгорнутий застосунок: буде додано після розгортання.
-- Репозиторій звітного HTML-документа (GitHub): буде додано після публікації.
-- Звітний HTML-документ: буде додано після розгортання.
+- Репозиторій власного проєкту (GitHub): [Chiefzhs/EduVault](https://github.com/Chiefzhs/EduVault)
+- Розгорнутий застосунок: локальний запуск із репозиторію проєкту.
+- Репозиторій звітного HTML-документа (GitHub): [Chiefzhs/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026](https://github.com/Chiefzhs/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026)
+- Звітний HTML-документ: [chiefzhs.github.io/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026](https://chiefzhs.github.io/IO-36_appRECORD-KolodnytskyiYaroslav-FIOT-2026/)
 
 ---
 
